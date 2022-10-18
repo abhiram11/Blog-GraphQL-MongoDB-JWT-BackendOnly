@@ -1,0 +1,31 @@
+{
+  "name": "blog-graphql-mongodb-jwt-backendonly",
+  "version": "1.0.0",
+  "description": "In this project we try to develop a blogging platform (Backend only) using Express, GraphQL, Express-GraphQL, MongoDB, Mongoose, and Authenticate and Authorize using JSON Web Tokens (JWT).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhiram11/Blog-GraphQL-MongoDB-JWT-BackendOnly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhiram11/Blog-GraphQL-MongoDB-JWT-BackendOnly/issues"
+  },
+  "homepage": "https://github.com/abhiram11/Blog-GraphQL-MongoDB-JWT-BackendOnly#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
