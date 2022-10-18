@@ -4,7 +4,7 @@
   "description": "In this project we try to develop a blogging platform (Backend only) using Express, GraphQL, Express-GraphQL, MongoDB, Mongoose, and Authenticate and Authorize using JSON Web Tokens (JWT).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
